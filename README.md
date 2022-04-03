@@ -1,4 +1,4 @@
-etag
+etag （[中文翻译在这里](./README_zh_CN.md)）
 ========
 [![GitHub release](https://img.shields.io/github/release/amalfra/etag.svg)](https://github.com/amalfra/etag/releases)
 ![Build Status](https://github.com/amalfra/etag/actions/workflows/test.yml/badge.svg?branch=main)
